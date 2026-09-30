@@ -1,14 +1,4 @@
-## Hi there 👋
-
-<!--
-**steb1/steb1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...# Louis Sebastien Malack
+# Louis Sebastien Malack
 
 **Développeur Full-Stack** · Rabat, Maroc · en poste, ouvert aux opportunités
 
@@ -32,8 +22,3 @@ Depuis mai 2025, je travaille en équipe de 3 sur une mission bancaire (Java, Sp
 [LinkedIn](https://www.linkedin.com/in/louis-sebastien-malack-b10b4a192) · louismalack1@gmail.com
 
 Langues : français, anglais, wolof
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
