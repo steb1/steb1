@@ -1,6 +1,6 @@
 # Louis Sebastien Malack
 
-**Développeur Full-Stack** · Rabat, Maroc · en poste, ouvert aux opportunités
+**Développeur Full-Stack** · en poste, ouvert aux opportunités
 
 Je conçois des applications web rapides et maintenables, du back à l'interface.
 
