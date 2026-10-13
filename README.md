@@ -7,8 +7,8 @@ Je conçois des applications web rapides et maintenables, du back à l'interface
 ## Compétences
 
 - **À l'aise** : TypeScript, Angular, Java, Spring Boot, Go, Next.js, REST, SQL, Git, Docker
-- **Intermédiaire** : Oracle, PL/SQL, PostgreSQL, WebSocket, JUnit, GitLab CI/CD, Linux
-- **Notions** : Rust, GraphQL, microservices
+- **Intermédiaire** : Oracle, PL/SQL, PostgreSQL, WebSocket, JUnit, GitLab CI/CD, Linux, GraphQl, microservices
+- **Notions** : Rust
 
 ## Me contacter
 
